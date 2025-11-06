@@ -12,7 +12,9 @@ Jamur sering dikonsumsi untuk nustrisi dan khasiat obat nya. Tetapi untuk membed
 ## SMART and Problem Statement
 
 Specific: Membuat model ANN yang dapat membedakan antara jamur yang bisa dimakan dan yang beracun
+
 Measurable: Target akurasi lebih besar daripada 90%
+
 Achievable: Menggunkan dataset jamur yang diambil dari Kaggle dan menggunakan konsep CNN.
 Relevant: Model yang dibuat dapat digunakan untuk mengajari orang mengidentifikasi jamur yang beracun dan yang tidak.
 Time Bound: Durasi yang pembuatan model selama 7 hari.
