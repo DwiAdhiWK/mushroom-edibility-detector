@@ -16,8 +16,11 @@ Specific: Membuat model ANN yang dapat membedakan antara jamur yang bisa dimakan
 Measurable: Target akurasi lebih besar daripada 90%
 
 Achievable: Menggunkan dataset jamur yang diambil dari Kaggle dan menggunakan konsep CNN.
+
 Relevant: Model yang dibuat dapat digunakan untuk mengajari orang mengidentifikasi jamur yang beracun dan yang tidak.
+
 Time Bound: Durasi yang pembuatan model selama 7 hari.
+
 Problem Statement: Mengidentifikasi jamur yang dapat dimakan dan yang beracun cukup sulit. Proyek ini bertujuan membuat model Convolutional Neural Network (CNN) yang mampu membedakan jamur yang bisa dimakan dan yang beracun dengan target akurasi lebih dari 90%. Model dikembangkan selama 7 hari dan diharapkan dapat membantu orang belajar mengenali jamur secara aman.
 
 ## Project Output
